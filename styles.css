@@ -472,16 +472,16 @@ font-weight: 500;
 }
 
 .projects .carousel .card {
-  background: #222;
+  background: #000000;
   border-radius: 6px;
-  padding: 25px 35px;
+  padding: 25px 15px;
   text-align: center;
   overflow: hidden;
   transition: all 0.3s ease;
 }
 
 .projects .carousel .card:hover {
-  background: #1e3551;
+  background: #3c669a;
 }
 
 .projects .carousel .card .box {
@@ -500,6 +500,7 @@ font-weight: 500;
   font-size: 25px;
   font-weight: 500;
   margin: 10px 0 7px 0;
+  color: #f0f0f0;
 }
 
 .projects .carousel .card img {
@@ -507,7 +508,7 @@ font-weight: 500;
   width: 150px;
   object-fit: cover;
   border-radius: 50%;
-  border: 5px solid #888c8d;
+  border: 5px solid #232829;
   transition: all 0.3s ease;
 }
 
@@ -531,7 +532,7 @@ font-weight: 500;
 }
 
 .owl-dot.active {
-  width: 35px;
+  width: 15px;
   border-radius: 14px;
 }
 
