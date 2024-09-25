@@ -40,9 +40,9 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing", {
     strings: [
-      "Python Developer",
-      "Software Developer",
-      "Machine Learning Enthusiast",
+      "Python-Dev",
+      "Software-Dev",
+      "ML Enthusiast",
       "Tech Learner",
       "Football Fan",
     ],
@@ -53,9 +53,9 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Python Developer",
-      "Software Developer",
-      "Machine Learning Enthusiast",
+      "Python-Dev",
+      "Software-Dev",
+      "ML Enthusiast",
      "Football Fan"
     ],
     typeSpeed: 15,
